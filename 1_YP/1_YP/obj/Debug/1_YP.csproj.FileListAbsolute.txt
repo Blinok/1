@@ -1,0 +1,6 @@
+D:\П32\УП по программированию\1 день\1_YP\1_YP\bin\Debug\1_YP.exe
+D:\П32\УП по программированию\1 день\1_YP\1_YP\bin\Debug\1_YP.pdb
+D:\П32\УП по программированию\1 день\1_YP\1_YP\obj\Debug\1_YP.csprojResolveAssemblyReference.cache
+D:\П32\УП по программированию\1 день\1_YP\1_YP\obj\Debug\1_YP.csproj.CoreCompileInputs.cache
+D:\П32\УП по программированию\1 день\1_YP\1_YP\obj\Debug\1_YP.exe
+D:\П32\УП по программированию\1 день\1_YP\1_YP\obj\Debug\1_YP.pdb
